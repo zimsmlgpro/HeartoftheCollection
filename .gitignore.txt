@@ -1,0 +1,10 @@
+# Folders
+**/.vs
+**/.intermediate
+**/.lib
+**/Properties
+
+**/[Bb]in
+**/[Oo]bj
+**/.[Bb]in
+**/.[Oo]bj
